@@ -15,6 +15,7 @@ public class Main {
             System.out.println("1 Registrar una venta");
             System.out.println("2 Simulacion de inventario");
             System.out.println("3 Consultar todas las ventas");
+            System.out.println("4 Productos mas vendidos y menos vendido");
             System.out.println("0 Salir");
             System.out.print("Seleccione una opción: ");
 
